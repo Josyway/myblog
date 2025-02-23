@@ -1,0 +1,2 @@
+# myblog
+django personal blog
